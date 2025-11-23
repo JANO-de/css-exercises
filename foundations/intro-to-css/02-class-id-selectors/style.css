@@ -1,1 +1,30 @@
 /* Add CSS Styling */
+#one {
+    color: black;
+    background-color: red;
+}
+
+#two {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+#three {
+    color: black;
+    background-color: red;
+    font-size: larger;
+}
+
+#four {
+    color: black;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#five {
+    color: black;
+    background-color: red;
+}
